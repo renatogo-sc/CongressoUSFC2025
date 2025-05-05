@@ -11,4 +11,4 @@ Este repositório contém os scripts e dados do meu projeto de pesquisa apresent
 - **Arquivos de saída.zip**: Contém os resultados gerados pelos scripts após a execução.
 
 ## Observações
-Os scripts foram desenvolvidos e executados no ambiente VLAB@UFSC (https://jupyter.vlab.ufsc.br/user/renato.go/lab). Para mais detalhes, consulte o artigo apresentado no congresso.
+Os scripts foram desenvolvidos e executados no ambiente VLAB@UFSC. Para mais detalhes, consulte o artigo apresentado no congresso.
